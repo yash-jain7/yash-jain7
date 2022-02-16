@@ -15,3 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-jain7&show_icons=true&locale=en" alt="yash-jain7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain7&" alt="yash-jain7" /></p>
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
