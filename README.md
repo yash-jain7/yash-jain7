@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yash Jain!
+- 👋 Hi, I’m Yash Jain! Welcome to my profile!
 - 👀 I’m interested in leveraging data to build products that can help mankind solve problems 1 gigabyte at a time
 - 🌱 I’m currently learning how to build world-class products with a data-driven mindset
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, Product Development projects
