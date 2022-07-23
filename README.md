@@ -1,4 +1,4 @@
-*** THIS IS A WORK IN PROGRESS ***
+
 - 👋 Hi, I’m Yash Jain! Welcome to my profile!
 - 👀 I’m interested in leveraging data to build products that can help mankind solve problems 1 gigabyte at a time
 - 🌱 I’m currently learning how to build world-class products with a data-driven mindset
