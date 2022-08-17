@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, Product Development projects
 - 📫 You can reach me at ycj2103@columbia.edu and +1 (332) 201-8455
 
-![](https://komarev.com/ghpvc/?username=yash-jain7)
+<!---![](https://komarev.com/ghpvc/?username=yash-jain7)--->
 
 <table>
   <tr>
