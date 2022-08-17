@@ -7,6 +7,16 @@
 
 ![](https://komarev.com/ghpvc/?username=yash-jain7)
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/yash-jain7/count.svg" alt="" /></td>
+  </tr>
+</table>
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-jain7&hide=contribs,prs)
+
+
 <!---
 yash-jain7/yash-jain7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
